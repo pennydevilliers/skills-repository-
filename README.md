@@ -7,6 +7,7 @@ Skills for Claude (claude.ai and Claude Code), used at MIX2.AI. Each folder in `
 | `no-bullshit-strategy` | Strategy, positioning, differentiation, critiquing a strategy (Alex M H Smith) |
 | `never-split-the-difference` | Negotiations, sales objections, difficult conversations (Chris Voss) |
 | `wordmark-logo` | Type-led logo and wordmark design |
+| `dan-martell-sales` | MIX2.AI sales calls: running calls, AI benefits, fears, objections and closing (Dan Martell) |
 
 ## Using them
 - **Claude Code:** link each folder into `~/.claude/skills/` (for example `ln -s ~/claude-skills/skills/<name> ~/.claude/skills/<name>`). Claude picks a skill automatically when a request matches its description, or you can call it by name, e.g. `/no-bullshit-strategy`.
